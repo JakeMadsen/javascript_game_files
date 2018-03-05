@@ -1,0 +1,50 @@
+{
+    "Human": [
+        {
+            "Gender": "Male",
+            "Class": [
+                {
+                    "Warrior": [
+                        {
+
+                        }
+                    ],
+                    "Wizard": [
+                        {
+
+                        }
+                    ],
+                    "Ranger": [
+                        {
+
+                        }
+                    ]
+                }
+            ]
+
+        },
+        {
+            "Gender": "Female",
+            "Class": [
+                {
+                    "Paladin": [
+                        {
+
+                        }
+                    ],
+                    "Sorcerer": [
+                        {
+
+                        }
+                    ],
+                    "Rouge": [
+                        {
+
+                        }
+                    ]
+                }
+            ]
+
+        }
+    ]
+}
