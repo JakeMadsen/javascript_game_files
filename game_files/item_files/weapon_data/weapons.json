@@ -1,9 +1,11 @@
 {
     "item_swords": {
         "Rusty Sword": {
-            
-                
-            
+            "Sword ID"      : "1",
+            "Class"         : "OneHanded",
+            "Name"          : "Rusty Sword",
+            "Base Damage"   : 5,
+            "Sword Description" : "An old rusty sword, and quite unrealiable"
         }
     }
 }
