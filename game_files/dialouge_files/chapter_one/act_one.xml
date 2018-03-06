@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <npcs>
+      <npc name="Old Man">
+        <dialogue>
+          <text>Welcome #{PlayerName} to Stack Exchange, What would you like to know? </text>
+          <options>
+            <option action="dialogue5">Tell me about Stack Exchange?</option>
+            <option action="quest1">Give me quest</option>
+            <option action="object1">Give me object</option>
+          </options>
+        </dialogue>
+        <dialogue id="5">
+          <text>Stack Exchange is a fast-growing network of 87 question and answer sites on diverse topics</text>
+          <text>We build libraries of high-quality questions and answers, focused on the most important topics in each area of expertise</text>
+        </dialogue>
+      </npc>
+    </npcs>
